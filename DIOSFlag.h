@@ -38,6 +38,7 @@
 //
 // ***** END LICENSE BLOCK *****
 
+#import "SettingsDiosAddons.h"
 #import "AFHTTPRequestOperation.h"
 
 @interface DIOSFlag : NSObject {
