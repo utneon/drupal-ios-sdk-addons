@@ -1,6 +1,6 @@
 Drupal iOS SDK Addons
 ================================
-The Drupal iOS SDK is a standard set of libraries for communicating to Drupal from any iOS device. Its extremely simple. This is a set of addon classes for drupal-ios-sdk.
+The Drupal iOS SDK Addons is a set of extra libraries for communicating to Drupal from any iOS device to work with the original Drupal iOS SDK.
 
 What you need to get started
 ================================
