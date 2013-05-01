@@ -38,8 +38,8 @@
 //
 // ***** END LICENSE BLOCK *****
 
-#import "SettingsDiosAddons.h"
 #import "AFHTTPRequestOperation.h"
+#define kDiosBaseFacebookOauth @"fboauth"
 
 @interface DIOSFacebookOauth : NSObject
 
